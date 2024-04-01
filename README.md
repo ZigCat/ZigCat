@@ -2,7 +2,7 @@
 #### I am Java Backend Developer.
 - Currently I am studying at IITU, majoring in software engineering
 - Held the position of backend developer on several non-profit projects
-- Completed a business incubation program at IITU Innovation with my own project.
+- Completed a business incubation program at IITU Innovation with my own startup.
 
 ### My skills:
 
