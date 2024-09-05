@@ -1,8 +1,10 @@
 ## Hi there 👋, I'm Solomon!
 #### I am Java Backend Developer.
-- Currently I am studying at IITU, majoring in software engineering
-- Held the position of backend developer on several non-profit projects
+- Currently I am studying at IITU, majoring in Software Engineering
+- Held the position of backend developer on several medium-sized projects
 - Completed a business incubation program at IITU Innovation with my own startup.
+
+#### [My Upwork Profile](https://www.upwork.com/freelancers/skazakpayev)
 
 ### My skills:
 
