@@ -4,7 +4,6 @@
 - Held the position of backend developer on several medium-sized projects
 - Completed a business incubation program at IITU Innovation with my own startup.
 
-#### [My Upwork Profile](https://www.upwork.com/freelancers/skazakpayev)
 
 ### My skills:
 
