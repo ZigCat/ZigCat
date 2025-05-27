@@ -11,7 +11,7 @@
 
 ### My social media:
 
-[<img width="50px" height="50px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" />](https://www.linkedin.com/in/solomon-kazakpayev)  [<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg' width="48px" height="48px" />](https://t.me/solomon517)  
+[<img src='https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg' width="48px" height="48px" />](https://t.me/solomon517)  
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZigCat)](https://github.com/anuraghazra/github-readme-stats)
